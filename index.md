@@ -40,14 +40,49 @@ Bu wiki, Avrupa Dijital Medya Gözlemevi'nin (EDMO) "Signals & Noise" aylık new
 | [[Newsletter/2026/edmo-signals-noise-issue-19-2026-04\|Issue 19]] | Nisan 2026 |
 
 ### 🏛️ EDMO Yapısı (Entity'ler)
+
+**Merkez:**
 - [[entities/edmo|EDMO]] — European Digital Media Observatory
-- [[entities/admo|ADMO]] — Hırvatistan-Slovenya EDMO hub'ı
-- [[entities/nordis|NORDIS]] — İskandinav EDMO hub'ı
+- [[entities/paolo-cesarini|Paolo Cesarini]] — EDMO Yönetim Kurulu Başkanı (2024–)
+- [[entities/miguel-maduro|Miguel Poiares Maduro]] — EDMO kurucu Yönetim Kurulu Başkanı
+
+**Hub'lar:**
+- [[entities/admo|ADMO]] — Hırvatistan-Slovenya hub'ı
+- [[entities/becid|BECID]] — Baltık ülkeleri hub'ı (Estonya, Letonya, Litvanya)
+- [[entities/belux|EDMO BELUX]] — Belçika-Lüksemburg hub'ı
+- [[entities/benedmo|BENEDMO]] — Belçika-Hollanda hub'ı (2022-2024, yerini BELUX aldı)
+- [[entities/brod|BROD]] — Romanya hub'ı
+- [[entities/cedmo|CEDMO]] — Orta Avrupa hub'ı (Çek, Slovakya, Polonya)
+- [[entities/correctiv|CORRECTIV]] — Almanya soruşturmacı gazetecilik
+- [[entities/efcsn|EFCSN]] — Avrupa Fact-Checking Standartları Ağı
+- [[entities/gadmo|GADMO]] — Almanya-Avusturya hub'ı
+- [[entities/iberifier|IBERIFIER]] — İspanya-Portekiz hub'ı
+- [[entities/idmo|IDMO]] — İtalya hub'ı
+- [[entities/meddmo|MEDDMO]] — Akdeniz hub'ı (Kıbrıs, Yunanistan, Malta)
+- [[entities/nordis|NORDIS]] — İskandinav hub'ı
 
 ### 💡 Temel Concept'ler
+
+**Dezenformasyon Türleri:**
 - [[concepts/ai-generated-disinformation|AI-Generated Disinformation]]
-- [[concepts/platform-economy-misinformation|Platform Economy and Misinformation]]
+- [[concepts/war-disinformation|Savaş Dezenformasyonu]]
 - [[concepts/climate-disinformation|Climate Disinformation]]
+- [[concepts/health-disinformation|Sağlık Dezenformasyonu]]
+- [[concepts/identity-based-disinformation|Kimliğe Dayalı Dezenformasyon]]
+
+**Platform ve Politika:**
+- [[concepts/platform-economy-misinformation|Platform Economy and Misinformation]]
+- [[concepts/code-of-practice-disinformation|Code of Practice on Disinformation]]
+- [[concepts/vlopse-compliance|VLOPSE Uyum Değerlendirmesi]]
+- [[concepts/dsa-data-access|DSA Veri Erişimi (Madde 40)]]
+
+**Seçimler ve Demokrasi:**
+- [[concepts/eu-elections-disinformation|AB Seçimleri ve Dezenformasyon]]
+- [[concepts/adversarial-behaviour|Düşmanca Davranış (Fact-Checker'lara Yönelik)]]
+
+**Medya Okuryazarlığı:**
+- [[concepts/media-literacy-standards|Medya Okuryazarlığı Standartları]]
+- [[concepts/societal-resilience|Toplumsal Dayanıklılık]]
 
 ### 📚 Konular
 - [[Konular/Dezenformasyon/Dezenformasyon|Dezenformasyon]] - Dezenformasyon türleri, tespit yöntemleri
